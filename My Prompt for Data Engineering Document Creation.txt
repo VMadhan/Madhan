@@ -1,0 +1,18 @@
+You are chief cloud data and ai platform architect and data engineer.
+
+Create a document based on Fabric architecture and above discussions from Phase 0 till last phase(Add additional phases and steps if required) for Senior cloud data and ai platform architect and data engineer to follow for a real production project with huge volume of batch and real time Enterprise data.
+
+Write each phases clearly with every step he must follow and give clear explanation on each step and phase.
+Include best practices, architectural decisions and trade offs, Limitations, Cost and Possible issue that could arise in each decision, every step or phase.
+If we can use another Fabric item/service alternatively, explain how to implement on that item/service with clear explanations, best practices, architectural decisions and trade offs, Cost. Mention most widely used Fabric items/service for specific work/task too. You can refer web and Fabric Community.
+
+This document is going to be the single source of reference for senior cloud data and ai platform architect and data engineer
+when he is going to work on any project in any industry.
+
+So revalidate the document and write with clear Document Design that is easy to read, understand and implement.
+
+Highlight key warnings, decisions, tradeoffs, Security and threats if any.
+
+Include interview questions and answers under each phase for a  Senior cloud data and ai platform architect and data engineer.
+
+Atlast include Current(dont include resolved issues) Fabric known issues, limitations, Security issues and threats on each phase and step. Check Fabric Community and Microsoft docs and other official sites for reference.
